@@ -4,4 +4,4 @@ Entrega do desafio 02 do capítulo III da trilha de NodeJS (Ignite, Rocketseat)
 
 ## Modelagem
 
-![diagrama]('./assets/diagram.png')
+![diagrama]('https://raw.githubusercontent.com/Garoze/modelagem-banco-de-dados/main/assets/diagram.png')
